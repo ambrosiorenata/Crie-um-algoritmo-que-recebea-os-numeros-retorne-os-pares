@@ -1,0 +1,1 @@
+# Crie-um-algoritmo-que-recebea-os-numeros-retorne-os-pares
